@@ -21,7 +21,7 @@ I hold a Degree in Physics from Federal University of Technology Minna, Niger St
 ## 🛠️ Projects
 
 Here are some of the projects I've worked on:
-- [Project](https://github.com/PLP-WebTechnologies/advanced-css-EZZYE001/tree/master): A simple and responsive blog platform built with HTML, CSS, and JavaScript.
+- [Project](https://github.com/PLP-WebTechnologies/advanced-css-EZZYE001/tree/master): A simple and responsive blog platform built with HTML and CSS
 
 ## 📬 Contact Me
 
